@@ -30,6 +30,4 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency "tilt"
 
-  spec.add_dependency 'rails', '>= 3.2.0'
-  spec.add_dependency 'sprockets', '> 2.11'
 end
